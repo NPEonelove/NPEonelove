@@ -24,8 +24,3 @@
 ## IDEs/Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## Contacts 
-**Telegram:** [@NPEonelove](https://t.me/NPEonelove) <br>
-**Channel:** https://t.me/lifeeeLogs <br>
-**E-mail:** morkofff749@yandex.ru  
